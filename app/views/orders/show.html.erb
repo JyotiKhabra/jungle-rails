@@ -36,7 +36,13 @@
     </table>
   </div>
 
-  <h4>Confirmation has been sent to your email: <%=@order.email%></h4>
+  <h4>Confirmation has been sent to your email:
+  <% if current_user %>
+  <%=current_user.email%>
+  <% else %>
+  <%=@order.email%></h4>
+  <% end %>
+  </br>
   <%= link_to "Continue Shopping", root_path, class: 'btn btn-lg btn-primary' %>
 
 </section>
