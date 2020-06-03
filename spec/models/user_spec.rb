@@ -21,7 +21,7 @@ RSpec.describe User, type: :model do
       expect(@user).to_not be_valid
     end
     it "is not valid without an unique_email" do
-      @user = User.create(
+      User.create(
         name: "Monica",
         email: "monica@email.com",
         password: "Password",
