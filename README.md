@@ -4,9 +4,9 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Final Product
 
-!["Admin Create Product"]()
-!["Order Summary"]()
-!["Signed In As"]()
+!["Admin Create Product"](https://github.com/JyotiKhabra/jungle-rails/blob/master/app/assets/images/ReadmeImages/admincreateproduct.png?raw=true)
+!["Order Summary"](https://github.com/JyotiKhabra/jungle-rails/blob/master/app/assets/images/ReadmeImages/ordersummary.png?raw=true)
+!["Signed In As"](https://github.com/JyotiKhabra/jungle-rails/blob/master/app/assets/images/ReadmeImages/signedinas.png?raw=true)
 
 
 ## Setup
