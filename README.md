@@ -1,6 +1,12 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example. Learnt how to inherit an existing code base in a language / framework that is new to me. Worked on fixing bugs, adding features and implementing tests.
+
+## Final Product
+
+!["Admin Create Product"]()
+!["Order Summary"]()
+!["Signed In As"]()
 
 
 ## Setup
@@ -25,3 +31,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+* Capybara
+* Database Cleaner
+* Poltergeist
