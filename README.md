@@ -3,13 +3,14 @@
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example. Learnt how to inherit an existing code base in a language / framework that is new to me. Worked on fixing bugs, adding features and implementing tests.
 
 ## Final Product
-Admin Create Product
+
+## Admin Create Product
 !["Admin Create Product"](https://github.com/JyotiKhabra/jungle-rails/blob/master/app/assets/images/ReadmeImages/admincreateproduct.png?raw=true)
 
-Order Summary
+## Order Summary
 !["Order Summary"](https://github.com/JyotiKhabra/jungle-rails/blob/master/app/assets/images/ReadmeImages/ordersummary.png?raw=true)
 
-Signed In As
+## Signed In As
 !["Signed In As"](https://github.com/JyotiKhabra/jungle-rails/blob/master/app/assets/images/ReadmeImages/signedinas.png?raw=true)
 
 
